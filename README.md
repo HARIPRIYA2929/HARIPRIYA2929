@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haripriya Palo</h1>
+<h1 align="center">Hi 👋, I'm Palo Haripriya </h1>
 <h3 align="center">Tech enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
